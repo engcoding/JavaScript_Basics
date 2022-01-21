@@ -1,4 +1,5 @@
 *.hwp
+.idea/
 */*.hwp
 */.idea/
 */**/.idea/
