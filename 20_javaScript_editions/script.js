@@ -1,4 +1,4 @@
-// 20. JavaScript Version
+// 20. JavaScript Edition
 
 
 
